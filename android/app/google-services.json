@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "159941508701",
+    "project_id": "jago-common",
+    "storage_bucket": "jago-common.firebasestorage.app"
+  },
+  "client": [
+   {
+      "client_info": {
+        "mobilesdk_app_id": "1:159941508701:android:8f59f8fb629bc5b42d17b4",
+        "android_client_info": {
+          "package_name": "com.positivity.Order"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZdajucx33VjTgRnbztdmO1KmDlcFEplI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
